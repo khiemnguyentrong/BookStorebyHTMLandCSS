@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+.menuouter{
+	height:160px;
+	background-image:url(b.jpg);
+	width:100%;
+	
+}
+.menuinside{
+	height:100%;
+	
+	width:940px;
+	text-align:center;
+	margin:auto;
+
+}
+.menuleft{
+	height:100%;
+	float:left;
+	width:270px;
+	
+}
+.menuright{
+	height:100%;
+	float:left;
+	width:670px;
+	
+}
+.menurighttop{
+	height:80px;
+	margin-top: 13px;
+	
+}
+.menurightbot{
+	height:60px;
+	
+	
+}
+.menuulli{
+	float: left;
+    font-weight: bold;
+    margin: 19px 10px 5px 7px;
+    font-size: 18px;
+    color: white;
+	
+}
+.books{
+	 
+    font-weight: bold;
+    float: left;
+    font-size: 55px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0px;
+	
+}
+.store{
+	float: left;
+    position: absolute;
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: bold;
+	color:orange;
+}
+.body1{
+	background-image:url(a.jpg);
+	height:1950px;
+	width:100%;
+}
+.bodyimg{
+	height: 350px;
+    width: 960px;
+    margin: auto;
+}
+.bodyinside{
+	height: 1350px;
+    width: 960px;
+    margin: auto;
+    background-image: url(c.png);
+    padding: 2px 0px 0px 44px;
+}
+.bodyul{
+	list-style: none;
+	float:left;
+	 
+	
+	
+}
+.bodyulli{
+	height:200px;
+	width:100px;
+	float:left;
+	margin: 5px 67px 0px 0px;
+}
+.bodyulliimage{
+	height: 200px;
+    width: 120px;
+    float: left;
+    border: 3px solid #8e8181;
+	-webkit-box-shadow: 4px 2px;
+}
+
+
+.a:visited{
+	color:white; 
+	text-decoration:none;
+}
+.a:hover{
+	text-decoration: none;
+	color: red;
+	font-weight: bold;
+
+}
+.a:link{
+	color:white;
+	text-decoration:none;
+}
+.bodymenu{
+	background-image:url(c.png);
+	padding: 0 0 0 69px;
+	margin:auto;
+	
+}
+.footer{
+	height: 250px;
+    float: left;
+    background-image: url(footer.png);
+    width: 100%;
+    
+    padding: 5px 0px 7px 0;
+}
+.slogan{
+	font-size: 24px;
+    float: left;
+    margin: 58px 2px 0px 17px;
+    color: #f6a73b;
+}
+.footer1{
+	color:white;
+	margin-left: 25%;
+    font-size: 16px;
+	width:20%;
+	height:200px;
+	float:left;
+}
+.footer2{
+	color:white;
+	font-size:16px;
+	float:left;
+	width:20%;
+	height:200px;
+	
+}
+.form{
+	margin: 61px -7px 0 0;
+}
+.iconsearch{
+	margin: 53px 0px 0px 0;
+    position: absolute;
+}
+.login{
+	width:100%;
+	height:40px;
+	background:black;
+	position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100000;
+}
+.end{
+	margin-top: 25px;
+    float: left;
+    color: #E91E63;
+    margin-left: 40%;
+	margin: 5px 0px 0px -424px;
+}
+.loginform{
+	float:right;
+	margin: 5px 72px 0px 0px;
+}
+.myimage{
+	height:300px;
+	width:960px;
+}
+.menuscroll{
+	float:right;
+	width:43%;
+	height:100%;
+}
+.menuscrollulli{
+	float: left;
+    font-weight: bold;
+    margin: -4px 21px 0px 0px;
+    font-size: 18px;
+    color: white;
+}
+.info{
+	text-decoration:none;
+	color:black;
+}
+.info:hover{
+	color:blue;
+}

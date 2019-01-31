@@ -1,0 +1,173 @@
+@charset "utf-8";
+.login{
+	width:100%;
+	height:40px;
+	background:black;
+	position: fixed;
+    top: 0;
+	left: 0;
+	right: 0;
+    z-index: 100000;
+}
+
+.loginform{
+	float:right;
+	margin: 10px 72px 0px 0px;
+}
+
+.menulefttop{
+	float:left;
+	margin-left: 50px;
+	margin-top: 10px;
+	font-weight: bold;
+	color: red;
+}
+
+.a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+.a:link{
+	color:white;
+	text-decoration:none;
+}
+
+.header{
+	height:160px;
+	background-image:url(../img/b.jpg);
+	width:100%;
+}
+
+.headerleft{
+	float: left;
+	width:200px;
+	position: absolute;
+	height: 100%;
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+.headerright{
+	float: right;
+	height: 100%;
+	width: 700px;
+	margin-right: 200px;
+}
+
+.search{
+	height:100px;
+	margin-top: 13px;
+}
+
+.sloganicon{
+	height: 60px;
+	width: auto;
+	float: left;
+	margin-top: 30px;
+}
+
+.slogan{
+	font-size: 24px;
+    float: left;
+    margin: 50px 2px 0px 17px;
+    color: #f6a73b;
+}
+
+.form{
+	float: left;
+	margin: 40px 0px 0px 30px
+}
+
+.searchicon{
+	margin: 33px 100px 0px 0px;
+    position: absolute;
+}
+
+.menu{
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.content{
+	background-image: url(../img/a.jpg);
+	height: 1950px;
+	width: 100%;
+}
+
+.decoration{
+	height: 350px;
+    width: 960px;
+	margin: auto;
+}
+
+.bookshefl{
+	height: 1350;
+    width: 960px;
+    margin: auto;
+    background-image: url(../img/c.png);
+    padding: 5px 0px 0px 45px;
+}
+
+.shelves{
+	list-style: none;
+	float:left;
+}
+
+.shelvesli{
+	height:200px;
+	width:100px;
+	float:left;
+	margin: 5px 67px 0px 0px;
+}
+
+.shelvesliimage{
+	height: 200px;
+    width: 120px;
+	float: center;
+	border: 3px solid gray;
+}
+
+.footer{
+	height: 250px;
+    float: left;
+    background-image: url(../img/footer.png);
+    width: 100%;
+    padding: 5px 0px 7px 0;
+}
+
+.contact{
+	color:white;
+	margin-left: 25%;
+    font-size: 16px;
+	width:20%;
+	height:200px;
+	float:left;
+}
+
+.popular{
+	color:white;
+	font-size:16px;
+	float:left;
+	width:20%;
+	height:200px;
+}
+
+.tag{
+	color:white;
+	font-size:16px;
+	float:left;
+	width:20%;
+	height:200px;
+}
+
+.copyright{
+	margin-top: 30px;
+    float: left;
+    color: #E91E63;
+    margin-left: 40%;
+}
